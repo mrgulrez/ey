@@ -1,1 +1,9 @@
-pip freeze > requirements.txt
+pandas==1.5.2
+numpy==1.23.5
+seaborn==0.12.1
+matplotlib==3.6.3
+scikit-learn==1.1.3
+xgboost==1.6.0
+sklearn-decision-tree==0.24.5
+sklearn-ensemble==1.1.3
+sklearn-linear-model==1.1.3
